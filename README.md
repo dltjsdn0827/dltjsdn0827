@@ -14,6 +14,7 @@
 
 ## 🛠️ 다루고 싶은 기술 스택
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/>
   <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" alt="JSP Badge"/>
   <img src="https://img.shields.io/badge/Servlet-6DB33F?style=for-the-badge&logo=java&logoColor=white" alt="Servlet Badge"/>
